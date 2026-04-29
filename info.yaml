@@ -33,7 +33,7 @@ pinout:
   uo[4]: "OuT5"
   uo[5]: "OT6"
   uo[6]: "OUT7"
-  uo[7]: "OU8"
+  uo[7]: "OUT8"
 
   # Bidirectional pins
   uio[0]: ""
