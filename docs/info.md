@@ -8,13 +8,10 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
 Demo Flow
 
 ## How to test
-
 It will be visible
 
 ## External hardware
-
-Demo test
+List external hardware used in your project (e.g. PMOD, LED display, etc), if any
